@@ -2,6 +2,15 @@
 
 Alertas en general, Corto Plazo, Vigentes, Informes Especiales
 
+## Endpoints
+
+* Alertas: `alerts`
+* Alertas Vigentes: `alerts/type/AL`
+* Alertas corto plazo: `alerts/type/AC`
+* Alertas informe especial: `alerts/type/IE`
+
+## Devuelve
+
 * `_id: ID`
 * `idAlert: Int`
 * `nReport: Int`
