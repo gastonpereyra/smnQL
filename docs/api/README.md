@@ -7,14 +7,14 @@ Lista de endpoints de la API del Servicio Meteorologico Nacional Argentino.
 
 Endpoints conocidos:
 
-* Lista de el estado del clima actual + pronostico ? : `map_items/weather` 
-* Pronosticos : `forecast`
-* Lista del pronostico para 1 dia: `map_items/forecast/1`
-* Lista del pronostico para 1 dia: `map_items/forecast/2`
-* Lista del pronostico para 1 dia: `map_items/forecast/3`
-* Lista del pronostico para 1 dia: `map_items/forecast/4`
-* Alertas: `alerts`
-* Alertas Vigentes: `alerts/type/AL`
-* Alertas corto plazo: `alerts/type/AC`
-* Alertas informe especial: `alerts/type/IE`
-* Nefoanálisis: `images`
+* Lista de el estado del clima actual + pronostico ? : `map_items/weather` - [+ Aqui](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/clima.md)
+* Pronosticos : `forecast` - [+ Aqui](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/pronostico.md)
+* Lista del pronostico para 1 dia: `map_items/forecast/1` - [+ Aqui](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/pronostico.md)
+* Lista del pronostico para 2 dia: `map_items/forecast/2` - [+ Aqui](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/pronostico.md)
+* Lista del pronostico para 3 dia: `map_items/forecast/3` - [+ Aqui](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/pronostico.md)
+* Lista del pronostico para 4 dia: `map_items/forecast/4` - [+ Aqui](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/pronostico.md)
+* Alertas: `alerts` - [+ Aqui](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/alertas.md)
+* Alertas Vigentes: `alerts/type/AL` - [+ Aqui](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/alertas.md)
+* Alertas corto plazo: `alerts/type/AC` - [+ Aqui](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/alertas.md)
+* Alertas informe especial: `alerts/type/IE` - [+ Aqui](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/alertas.md)
+* Nefoanálisis: `images` - [+ Aqui](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/nefoanalisis.md)
