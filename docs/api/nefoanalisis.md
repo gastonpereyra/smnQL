@@ -4,6 +4,7 @@ Analisis del clima / Vientos, a traves de mapas
 
 ## Endpoint
 
+`images`
 
 ## Devuelve
 
