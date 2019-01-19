@@ -17,7 +17,7 @@ También: `lid`: Location ID,  o `fid`: Forecast ID.
 | 04 | thunderstorm | - | "Cubierto con tormenta sin precipitación" |
 | 05 | snowflake-cold | snowflake-cold | "Cubierto con nevada" |
 | 06 | day-sleet | night-sleet | "Lloviznas" |
-| 07 | - | - | - |
+| 07 | snow | snow | "Nevadas Aisladas" |
 | 08 | - | - | - |
 | 09 | cloud-down | cloud-down | "Nubosidad en disminución" |
 | 10 | cloudy | cloudy | "Nublado" |
@@ -27,7 +27,7 @@ También: `lid`: Location ID,  o `fid`: Forecast ID.
 | 14 | day-sleet-storm | night-sleet-storm | "Tormentas aisladas" |
 | 15 | day-cloudy-high | night-cloudy-high | "Nubosidad variable" |
 | 16 | cloud-down | cloud-down | "Cielo parcialmente nublado o nublado. Lloviznas aisladas" |
-| 17 | - | - | - |
+| 17 | day-snow-thunderstorm | night-snow-thunderstorm | "Nubosidad Variable. Probable nieve" |
 | 18 | cloudy | cloudy | "Desmejorando" |
 | 19 | - | - | - |
 | 20 | strong-wind | strong-wind | "Ventoso" |
@@ -46,7 +46,7 @@ También: `lid`: Location ID,  o `fid`: Forecast ID.
 | 05 | snowflake-cold | <img src="https://www.smn.gob.ar/sites/all/themes/smn/images/weather-icons/big-wi-snowflake-cold.png" width="30"> |
 | 06/11 | day-sleet | <img src="https://www.smn.gob.ar/sites/all/themes/smn/images/weather-icons/big-wi-day-sleet.png" width="30"> |
 | 06/11 | night-sleet | <img src="https://www.smn.gob.ar/sites/all/themes/smn/images/weather-icons/big-wi-night-sleet.png" width="30"> |
-| 07 |  | <img src="https://www.smn.gob.ar/sites/all/themes/smn/images/weather-icons/big-wi-" width="30"> |
+| 07 | snow | <img src="https://www.smn.gob.ar/sites/all/themes/smn/images/weather-icons/big-wi-snow.png" width="30"> |
 | 08 |  | <img src="https://www.smn.gob.ar/sites/all/themes/smn/images/weather-icons/big-wi-" width="30"> |
 | 09/16 | cloud-down | <img src="https://www.smn.gob.ar/sites/all/themes/smn/images/weather-icons/big-wi-cloud-down.png" width="30"> |
 | 10/18 | cloudy | <img src="https://www.smn.gob.ar/sites/all/themes/smn/images/weather-icons/big-wi-cloudy.png" width="30"> |
@@ -55,7 +55,8 @@ También: `lid`: Location ID,  o `fid`: Forecast ID.
 | 13 | rain-mix | <img src="https://www.smn.gob.ar/sites/all/themes/smn/images/weather-icons/big-wi-rain-mix.png" width="30"> | 
 | 14 | day-sleet-storm | <img src="https://www.smn.gob.ar/sites/all/themes/smn/images/weather-icons/big-wi-day-sleet-storm.png" width="30"> |
 | 14 | night-sleet-storm | <img src="https://www.smn.gob.ar/sites/all/themes/smn/images/weather-icons/big-wi-night-sleet-storm.png" width="30"> | 
-| 17 |  | <img src="https://www.smn.gob.ar/sites/all/themes/smn/images/weather-icons/big-wi-" width="30"> |
+| 17 | day-snow-thunderstorm | <img src="https://www.smn.gob.ar/sites/all/themes/smn/images/weather-icons/big-wi-day-snow-thunderstorm.png" width="30"> |
+| 17 | night-snow-thunderstorm | <img src="https://www.smn.gob.ar/sites/all/themes/smn/images/weather-icons/big-wi-night-snow-thunderstorm.png" width="30"> |
 | 19 |  | <img src="https://www.smn.gob.ar/sites/all/themes/smn/images/weather-icons/big-wi-" width="30"> |
 | 20 | strong-wind | <img src="https://www.smn.gob.ar/sites/all/themes/smn/images/weather-icons/big-wi-strong-wind.png" width="30"> | 
 
@@ -95,13 +96,13 @@ También: `lid`: Location ID,  o `fid`: Forecast ID.
 
 * "Lloviznas"
 
-### 07
+### 07 / Nevadas Aisladas
 
-*
+* "Nubosidad Variable. Nevadas Aisladas"
 
 ### 08
 
-*
+* "Desconocido"
 
 ### 09 / Nubosidad en disminución
 
@@ -141,9 +142,9 @@ También: `lid`: Location ID,  o `fid`: Forecast ID.
 
 * "Cielo parcialmente nublado o nublado. Probabilidad de lloviznas aisladas"
 
-### 17
+### 17 / Nubosidad Variable. Probable nieve
 
-*
+* "Nubosidad variable. Probables neblinas. Probables lluvias y nieve"
 
 ### 18 / Desmejorando
 
@@ -151,7 +152,7 @@ También: `lid`: Location ID,  o `fid`: Forecast ID.
 
 ### 19
 
-*
+* "Desconocido"
 
 ### 20 / Ventoso
 
