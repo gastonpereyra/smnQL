@@ -4,7 +4,7 @@ También: `lid`: Location ID,  o `fid`: Forecast ID.
 
 ## Endpoint de los iconos
 
-`https://www.smn.gob.ar/sites/all/themes/smn/images/`
+`https://www.smn.gob.ar/sites/all/themes/smn/images/weather-icons/`
 
 ## Tipos
 
