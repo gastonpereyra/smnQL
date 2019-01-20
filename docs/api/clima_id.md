@@ -1,6 +1,9 @@
 # Weather ID
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Feather-weather-sunset.svg/2000px-Feather-weather-sunset.svg.png" width="200">
+
 También: `lid`: Location ID,  o `fid`: Forecast ID.
+Usado en [Weather](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/clima.md) y [Forecast](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/pronostico.md)
 
 ## Endpoint de los iconos
 
@@ -33,6 +36,7 @@ También: `lid`: Location ID,  o `fid`: Forecast ID.
 | 20 | strong-wind | strong-wind | "Ventoso" |
 
 ## Iconos
+
 | Numero | Nombre | Imagen |
 |------- | ------ | ------ |
 | 00 | day-sunny | <img src="https://www.smn.gob.ar/sites/all/themes/smn/images/weather-icons/big-wi-day-sunny.png" width="30"> |
