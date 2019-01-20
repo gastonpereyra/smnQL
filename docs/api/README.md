@@ -1,11 +1,14 @@
 # API del SMN
 
+<img src="https://image.flaticon.com/icons/png/512/297/297396.png" width="200">
+
 Lista de endpoints de la API del Servicio Meteorologico Nacional Argentino.
 
-* ID de la substacion segun lat y long: `https://www.smn.gob.ar/smn/app/location/geo/:lat,:lon`
+## Dirección Base
+
 * Dirección base: ` https://ws.smn.gob.ar/`
 
-Endpoints conocidos:
+## Endpoints conocidos:
 
 * Lista de el estado del clima actual + pronostico ? : `map_items/weather` - [+ Aqui](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/clima.md)
 * Pronosticos : `forecast` - [+ Aqui](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/pronostico.md)
@@ -18,3 +21,8 @@ Endpoints conocidos:
 * Alertas corto plazo: `alerts/type/AC` - [+ Aqui](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/alertas.md)
 * Alertas informe especial: `alerts/type/IE` - [+ Aqui](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/alertas.md)
 * Nefoanálisis: `images` - [+ Aqui](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/nefoanalisis.md)
+
+## Geolocation
+
+* ID de la substacion segun lat y long: `https://www.smn.gob.ar/smn/app/location/geo/:lat,:lon`
+[+ Aqui](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/geoLocation.md)
