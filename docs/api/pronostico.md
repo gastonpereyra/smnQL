@@ -1,5 +1,7 @@
 # Pronostico
 
+<img src="http://cdn.onlinewebfonts.com/svg/img_561464.png" width="200">
+
 Solo pronosticos, todos, a 1 y hasta 4 dias
 
 ## Endpoints
@@ -14,18 +16,20 @@ Solo pronosticos, todos, a 1 y hasta 4 dias
 
 * `_id: ID`
 * `timestamp: String`
-* `date_time: String` (YYYY-mm-DD HH:MM)
+* `date_time: String` # (YYYY-mm-DD HH:MM)
 * `location_id: Int`
-* `forecast: [Forecasts]`
+* `forecast: [Forecasts]` # NO ES UN ARRAY, es un Objeto
 
 ### Forecasts
 
-* `date: String` (YYYY-mm-DD)
-* `temp_min: Float` (Temperatura Minima °C) <- Manaña?
+Posición "0", pronostico del dia vigente, a partir del "1" los proximos dias.
+
+* `date: String` # (YYYY-mm-DD)
+* `temp_min: Float` # (Temperatura Minima °C) <- Manaña?
 * `temp_max: Float` (Tempertura Maxima °C) <- Tarde ?
-* `temp_min_sub: Float`  <- ?
-* `temp_noc: Float` <- Noche? 
-* `radiation: (?)` (Radiacion solar) <- Unidad: UV ?
+* `temp_min_sub: Float` #  <- ?
+* `temp_noc: Float` # <- Noche? 
+* `radiation: (?)` # (Radiacion solar) <- Unidad: UV ?
 * `morning: Morning`
 * `afternoon: Afternoon`
 
