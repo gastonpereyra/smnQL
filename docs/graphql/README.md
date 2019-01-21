@@ -56,6 +56,7 @@ SubEstación Regional Clima Actual.
 * `wind_deg: String` # Velocidad del Viente en km/h | ["Este","Oeste","Sur","Norte", etc..]
 * `id: Int` # ID del icono del clima
 * `description: String` #  Solo Español
+* `forecast: Forecast` # Pronostico
 
 ### Forecast 
 
