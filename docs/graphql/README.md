@@ -30,7 +30,7 @@ No posee
 
 SubEstación Regional Clima Actual.
 
-* `_id : ID`
+* `_id : ID` # id del reporte cambia en cada informe
 * `dist : Float`
 * `lid : Int` # ID de la Estación
 * `fid : Int` # ID de la Estación
