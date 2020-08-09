@@ -86,7 +86,7 @@ Usado en [Weather](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/c
 | 13 | 77? | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/77.png" width="30"> | 77? | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/77.png" width="30"> |
 | 14 | 76 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/76.png" width="30"> | 76 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/76.png" width="30"> |
 | 15 | 19 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/19.png" width="30"> | 20 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/20.png" width="30"> |
-| 16 |  | <img src="" width="30"> |  | <img src="" width="30"> |
+| 16 | 3 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/3.png" width="30"> | 5 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/5.png" width="30"> |
 | 17 |  | <img src="" width="30"> |  | <img src="" width="30"> |
 | 18 | 43 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/43.png" width="30"> | 43 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/43.png" width="30"> |
 | 19 | 94 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/94.png" width="30"> | 92 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/92.png" width="30"> |
@@ -193,16 +193,16 @@ Usado en [Weather](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/c
 
 ---
 
-00 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/00.png" width="30">
-01 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/01.png" width="30">
-02 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/02.png" width="30">
-03 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/03.png" width="30">
-04 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/04.png" width="30">
-05 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/05.png" width="30">
-06 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/06.png" width="30">
-07 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/07.png" width="30">
-08 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/08.png" width="30">
-09 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/09.png" width="30">
+00 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/0.png" width="30">
+01 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/1.png" width="30">
+02 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/2.png" width="30">
+03 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/3.png" width="30">
+04 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/4.png" width="30">
+05 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/5.png" width="30">
+06 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/6.png" width="30">
+07 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/7.png" width="30">
+08 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/8.png" width="30">
+09 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/9.png" width="30">
 
 10 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/10.png" width="30">
 11 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/11.png" width="30">
