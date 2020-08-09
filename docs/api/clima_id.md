@@ -34,7 +34,7 @@ Usado en [Weather](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/c
 | 16 | cloud-down | cloud-down | "Cielo parcialmente nublado o nublado. Lloviznas aisladas" |
 | 17 | day-snow-thunderstorm | night-snow-thunderstorm | "Nubosidad Variable. Probable nieve" |
 | 18 | cloudy | cloudy | "Desmejorando" |
-| 19 | - | - | - |
+| 19 | - | - | "Cielo nublado. Nevadas. Niebla. Ventisca" |
 | 20 | strong-wind | strong-wind | "Ventoso" |
 
 ## Iconos
@@ -77,19 +77,19 @@ Usado en [Weather](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/c
 | 04 | 76 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/76.png" width="30"> | 76 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/76.png" width="30"> |
 | 05 | 78 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/78.png" width="30"> | 78 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/78.png" width="30"> |
 | 06 |  | <img src="" width="30"> |  | <img src="" width="30"> |
-| 07 |  | <img src="" width="30"> |  | <img src="" width="30"> |
-| 08 |  | <img src="" width="30"> |  | <img src="" width="30"> |
+| 07 | 76 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/76.png" width="30"> | 76 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/76.png" width="30"> |
+| 08 | 69? | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/69.png" width="30"> | 69? | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/69.png" width="30"> |
 | 09 |  | <img src="" width="30"> |  | <img src="" width="30"> |
 | 10 | 61 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/61.png" width="30"> | 67? | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/67.png" width="30"> |
 | 11 |  | <img src="" width="30"> |  | <img src="" width="30"> |
 | 12 | 37? | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/37.png" width="30"> | 38? | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/38.png" width="30"> |
 | 13 | 77? | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/77.png" width="30"> | 77? | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/77.png" width="30"> |
 | 14 | 76 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/76.png" width="30"> | 76 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/76.png" width="30"> |
-| 15 |  | <img src="" width="30"> |  | <img src="" width="30"> |
+| 15 |  | <img src="" width="30"> | 32 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/icons_32.png" width="30"> |
 | 16 |  | <img src="" width="30"> |  | <img src="" width="30"> |
 | 17 |  | <img src="" width="30"> |  | <img src="" width="30"> |
 | 18 | 43 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/43.png" width="30"> | 43 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/43.png" width="30"> |
-| 19 | 69? | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/69.png" width="30"> | 69? | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/69.png" width="30"> |
+| 19 | 92 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/92.png"> | 92 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/92.png" width="30"> |
 | 20 | 51 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/51.png" width="30"> | 51 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/51.png" width="30"> |
 
 ## Mas Leyendas 
@@ -185,19 +185,37 @@ Usado en [Weather](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/c
 
 ### 19
 
-* "Desconocido"
+* "Cielo nublado. Nevadas. Niebla. Ventisca"
 
 ### 20 / Ventoso
 
 * "Ventoso"
 
 0 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/70.png" width="30">
-1 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/71.png" width="30">
 2 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/72.png" width="30">
 3 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/73.png" width="30">
 4 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/74.png" width="30">
 5 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/75.png" width="30">
-6 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/76.png" width="30">
-7 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/77.png" width="30">
-8 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/78.png" width="30">
 9 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/79.png" width="30">
+
+80 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/80.png" width="30">
+81 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/81.png" width="30">
+82 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/82.png" width="30">
+83 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/83.png" width="30">
+84 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/84.png" width="30">
+85 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/85.png" width="30">
+86 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/86.png" width="30">
+87 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/87.png" width="30">
+88 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/88.png" width="30">
+89 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/89.png" width="30">
+
+90 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/90.png" width="30">
+91 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/91.png" width="30">
+92 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/92.png" width="30">
+93 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/93.png" width="30">
+94 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/94.png" width="30">
+95 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/95.png" width="30">
+96 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/96.png" width="30">
+97 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/97.png" width="30">
+98 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/98.png" width="30">
+99 <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/99.png" width="30">
