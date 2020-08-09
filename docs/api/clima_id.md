@@ -9,6 +9,8 @@ Usado en [Weather](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/c
 
 `https://www.smn.gob.ar/sites/all/themes/smn/images/weather-icons/big-wi-`+ Icono + `.png`
 
+`https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/`+ Icono-Number + `.png`
+
 ## Tipos
 
 | Numero | Icono-Dia | Icono-Noche | Leyenda |
@@ -23,7 +25,7 @@ Usado en [Weather](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/c
 | 07 | snow | snow | "Nevadas Aisladas" |
 | 08 | - | - | - |
 | 09 | cloud-down | cloud-down | "Nubosidad en disminución" |
-| 10 | cloudy | cloudy | "Nublado" |
+| 10 | cloudy | cloudy | "Nublado", "Cubierto con neblina" |
 | 11 | day-sleet | night-sleet | " Cielo nublado. Lloviznas aisladas" |
 | 12 | day-cloudy | - | "Inestable" |
 | 13 | rain-mix | rain-mix | "Nubosidad Variable. Lluvias. Nieve |
@@ -116,6 +118,7 @@ Usado en [Weather](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/c
 
 * "Cielo invisible con niebla"
 * "Cubierto"
+* "Cubierto con Neblina"
 * "Nublado"
 * "Nublado con nevada en la hora anterior"
 * "Nublado con ventisca baja"
