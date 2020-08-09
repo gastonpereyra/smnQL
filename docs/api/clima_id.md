@@ -72,7 +72,7 @@ Usado en [Weather](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/c
 |------- | ------ | ------ |--------------|--------|
 | 00 | 3 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/3.png" width="30"> | 5 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/5.png" width="30"> |
 | 01 | 13 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/13.png" width="30"> | 14 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/14.png" width="30"> | 
-| 02 | 25 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/25.png" width="30"> | 25 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/25.png" width="30"> |
+| 02 | 25 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/25.png" width="30"> | 26 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/26.png" width="30"> |
 | 03 | 71 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/71.png" width="30"> | 71 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/71.png" width="30"> |
 | 04 | 76 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/76.png" width="30"> | 76 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/76.png" width="30"> |
 | 05 | 78 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/78.png" width="30"> | 78 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/78.png" width="30"> |
@@ -82,15 +82,14 @@ Usado en [Weather](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/c
 | 09 |  | <img src="" width="30"> |  | <img src="" width="30"> |
 | 10 | 61 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/61.png" width="30"> | 67 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/67.png" width="30"> |
 | 11 |  | <img src="" width="30"> |  | <img src="" width="30"> |
-| 12 |  | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/37.png" width="30"> |  | <img src="" width="30"> |
-| 12 | 37 | <img src="" width="30"> | 38 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/38.png" width="30"> |
+| 12 | 37 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/37.png" width="30"> | 38 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/38.png" width="30"> |
 | 13 |  | <img src="" width="30"> |  | <img src="" width="30"> |
 | 14 |  | <img src="" width="30"> |  | <img src="" width="30"> |
 | 15 |  | <img src="" width="30"> |  | <img src="" width="30"> |
 | 16 |  | <img src="" width="30"> |  | <img src="" width="30"> |
 | 17 |  | <img src="" width="30"> |  | <img src="" width="30"> |
 | 18 | 43 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/43.png" width="30"> | 43 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/43.png" width="30"> |
-| 19 |  | <img src="" width="30"> |  | <img src="" width="30"> |
+| 19 | 69 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/69.png" width="30"> | 69 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/69.png" width="30"> |
 | 20 | 51 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/51.png" width="30"> | 51 | <img src="https://www.smn.gob.ar/sites/all/themes/smn/img/weather-icons/51.png" width="30"> |
 
 ## Mas Leyendas 
@@ -191,3 +190,4 @@ Usado en [Weather](https://github.com/gastonpereyra/smnQL/blob/master/docs/api/c
 ### 20 / Ventoso
 
 * "Ventoso"
+
